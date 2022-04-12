@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	System.out.println(" 시작 : HttpURLConnection사용 Post방식 Rest API 테스트 -----");
 	
 	//--------------------------------------------------
-	
+	 
 	try {
 		StringBuilder vStringBuilder = new StringBuilder();
 		String vStringLine;
